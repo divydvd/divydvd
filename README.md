@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Divy- @divydvd
-- 👀 I’m interested in Artificial Intelligence, Blockchain
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Web Dev and Machine Learning Projects
+- 👀 I’m interested in Android Development, Artificial Intelligence, Blockchain, Web Dev
+- 🌱 I’m currently learning Android, AI
+- 💞️ I’m looking to collaborate on Android and Machine Learning Projects
 - 📫 How to reach me via email  divydwivedi@gmail.com
 
 <!---
